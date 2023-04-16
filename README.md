@@ -4,7 +4,8 @@
   </div></br>
 
 <div align="center">
-  <h3>Saudações 🖖! Eu sou Gustavo C. Pinto</h3>
+  <h3>Saudações 🖖! Eu sou Gustavo C. Pinto</h3><hr>
+  <p>Cursando Ciẽncia da Computação </p>
 </div></br>
 
 <div>
