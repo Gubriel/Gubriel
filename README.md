@@ -1,4 +1,9 @@
 <div align="center">
+  <a href="mailto:gustavocastag32@gmail.com"><img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  <a href="https://www.instagram.com/gusta.castag"><img align="right" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </div></br>
+
+<div align="center">
   <h3>Saudações 🖖! Eu sou Gustavo C. Pinto</h3>
 </div></br>
 
