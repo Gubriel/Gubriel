@@ -6,8 +6,8 @@
  
 <div align="center">
   <h3>Saudações 🖖! Eu sou Gustavo C. Pinto</h3></br>
-  <img height="190em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gubriel&theme=highcontrast" />
-  <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gubriel&theme=highcontrast" />
+  <img height="190em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gubriel&theme=transparent" />
+  <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gubriel&theme=transparent" />
 </div></br>
 
 <div align="center"></br>
