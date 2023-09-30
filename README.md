@@ -13,7 +13,6 @@
 <h5>Aprendendo as Tecnologias:</h5>
 <div align="center">
   <a href="https://developer.android.com/" target="_blank" rel="noopener noreferrer"><img align="left" src="https://img.shields.io/badge/Android_Studio-107C10?style=for-the-badge&logo=android-studio&logoColor=white" target="_blank" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer"><img align="left" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" target="_blank" /></a>
   <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer"><img align="left" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" target="_blank" /></a>
 <!--   <img align="right" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="right" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
