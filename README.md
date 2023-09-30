@@ -2,6 +2,7 @@
   <a href="https://www.reddit.com/r/unixporn/" target="_blank" rel="noopener noreferrer"><img align="left" src="https://img.shields.io/badge/unixporn ❤️-56347C?style=for-the-badge&logo=linux&logoColor=white"/>
   <a href="mailto:gustavocastag32@gmail.com" target="_blank" rel="noopener noreferrer"><img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   <a href="https://www.instagram.com/gusta.castag" target="_blank" rel="noopener noreferrer"><img align="right" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.reddit.com/user/Hyprlinux" target="_blank" rel="noopener noreferrer"><img align="right" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
 </div><hr>
  
 <div align="center">
