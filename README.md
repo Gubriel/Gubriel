@@ -32,10 +32,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
-###
-
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&reversal=true&text=Sauda%C3%A7%C3%B5es!&fontSize=30&fontColor=FFFFFF&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&desc=Eu%20sou%20Gustavo%20C.%20Pinto&descSize=20&descAlign=0&descAlignY=75&textBg=false&color=gradient"  />
 </div>
-
-###
