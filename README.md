@@ -1,21 +1,37 @@
-<div align="center">
-  <a href="mailto:gustavocaspin@proton.me" target="_blank" rel="noopener noreferrer"><img align="right" src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=proton&logoColor=white"/>
-  <a href="https://www.instagram.com/gusta.castag" target="_blank" rel="noopener noreferrer"><img align="right" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  <a href="https://www.reddit.com/user/Hyprlinux" target="_blank" rel="noopener noreferrer"><img align="right" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-</div><hr>
- 
-<div align="center">
-  <h3>Saudações <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" height="20"/>! Eu sou Gustavo C. Pinto</h3></br>
-  <img height="190em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gubriel&theme=gotham" />
-  <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gubriel&theme=gotham" />
-</div></br></br>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&reversal=true&text=Sauda%C3%A7%C3%B5es!&fontSize=30&fontColor=FFFFFF&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&desc=Eu%20sou%20Gustavo%20C.%20Pinto&descSize=20&descAlign=0&descAlignY=75&textBg=false&color=gradient"  />
+</div>
 
-<h5>Aprendendo as Tecnologias:</h5>
 <div align="center">
-  <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer"><img align="left" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank" /></a>
-  <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer"><img align="left" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" target="_blank" /></a>
-  <img align="right" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="right" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
-  <img align="right" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-  <img align="right" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-</div><hr>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="94" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
+  <img width="94" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+  <img width="94" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="94" />
+  <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="dart logo"  />
+  <img width="94" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="94" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gubriel&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=pt-br&hide_border=true&order=1" height="300" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Gubriel&locale=pt-br&mode=daily&theme=blue-green&hide_border=true&border_radius=0&order=3" height="300" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gubriel&radius=16&theme=react&area=true&order=5&bg_color=00&color=0ccc15&hide_border=true&title_color=0ccc15&line=0ccc15&point=00&area_color=00&hide_title=true" height="400" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+###
