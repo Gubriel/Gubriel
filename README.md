@@ -1,33 +1,42 @@
+
+
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&reversal=true&text=Sauda%C3%A7%C3%B5es!&fontSize=30&fontColor=FFFFFF&fontAlignY=50&strokeWidth=0&animation=fadeIn&desc=Eu%20sou%20Gustavo%20C.%20Pinto&descSize=20&descAlign=0&descAlignY=75&color=gradient" />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&reversal=true&text=Sauda%C3%A7%C3%B5es!&fontSize=30&fontColor=FFFFFF&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&desc=Eu%20sou%20Gustavo%20C.%20Pinto&descSize=20&descAlign=0&descAlignY=75&textBg=false&color=gradient"  />
 </div>
-
 <hr/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gubriel&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green&locale=pt-br&hide_border=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://streak-stats.demolab.com?user=Gubriel&locale=pt-br&mode=daily&theme=blue-green&hide_border=true" height="150" alt="Dias de contribuição consecutivos" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gubriel&radius=16&theme=react&area=true&bg_color=00&color=0ccc15&hide_border=true&line=0ccc15&point=00&area_color=00&hide_title=true" width="100%" alt="Gráfico de atividades" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gubriel&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+  
+  <img src="https://streak-stats.demolab.com?user=Gubriel&locale=pt-br&mode=daily&theme=blue-green&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph"  />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gubriel&radius=16&theme=react&area=true&order=5&bg_color=00&color=0ccc15&hide_border=true&title_color=0ccc15&line=0ccc15&point=00&area_color=00&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
 <hr/>
 
-<h3 align="center">🚀 Aprendendo as Tecnologias:</h3>
+<h3>Aprendendo as Tecnologias:</h3>
 <br/>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="Laravel" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="PHP" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="Dart" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" />
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="82" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
+  <img width="82" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+  <img width="82" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="82" />
+  <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="dart logo"  />
+  <img width="82" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />;
+  <img width="82" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+</div>
+
+
 
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&reversal=false&animation=fadeIn&color=gradient" />
+
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=false&animation=fadeIn%20Pinto&descSize=20&descAlign=0&descAlignY=75&textBg=false&color=gradient"  />
+
 </div>
