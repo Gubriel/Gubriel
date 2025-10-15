@@ -19,19 +19,19 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="70" />
+  <img width="68" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
-  <img width="70" />
+  <img width="68" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
-  <img width="70" />
+  <img width="68" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="70" />
+  <img width="68" />
   <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="dart logo"  />
-  <img width="70" />
+  <img width="68" />
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/n8n-color.png" height="40" alt="n8n logo"  />
-  <img width="70" />
+  <img width="68" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="70" />
+  <img width="68" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
 </div>
 
@@ -39,6 +39,6 @@
 
 <div>
 
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=false&animation=fadeIn%20Pinto&descSize=20&descAlign=0&descAlignY=75&textBg=false&color=gradient"  />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=true&animation=fadeIn%20Pinto&descSize=20&descAlign=0&descAlignY=75&textBg=false&color=gradient"  />
 
 </div>
