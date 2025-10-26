@@ -1,16 +1,24 @@
-
-
 <div>
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&reversal=true&text=Sauda%C3%A7%C3%B5es!&fontSize=30&fontColor=FFFFFF&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&desc=Eu%20sou%20Gustavo%20C.%20Pinto&descSize=20&descAlign=0&descAlignY=75&textBg=false&color=gradient"  />
+  <a href="https://github.com/Gubriel#gh-dark-mode-only">
+    <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&reversal=true&text=Sauda%C3%A7%C3%B5es!&fontSize=30&fontColor=1C6052&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&desc=Eu%20sou%20Gustavo%20C.%20Pinto&descSize=20&descAlign=0&descAlignY=75&textBg=false&color=gradient#gh-dark-mode-only"  />
+  <a/>
+  <a href="https://github.com/Gubriela#gh-light-mode-only">
+    <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&reversal=true&text=Sauda%C3%A7%C3%B5es!&fontSize=30&fontColor=41B883&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&desc=Eu%20sou%20Gustavo%20C.%20Pinto&descSize=20&descAlign=0&descAlignY=75&textBg=false&color=gradient#gh-dark-mode-only"  />
+  <a/>
 </div>
 <hr/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gubriel&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=pt-br&hide_border=true#gh-light-mode-only" height="150" alt="stats graph" />
-  
-  <img src="https://streak-stats.demolab.com?user=Gubriel&locale=pt-br&mode=daily&theme=blue-green&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph"  />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gubriel&radius=16&theme=react&area=true&order=5&bg_color=00&color=0ccc15&hide_border=true&title_color=0ccc15&line=0ccc15&point=00&area_color=00&hide_title=true" height="300" alt="activity-graph graph"  />
+  <a href="https://github.com/Gubriela#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gubriel&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=true#gh-dark-mode-only" height="150" alt="stats graph" />
+    <img src="https://streak-stats.demolab.com?user=Gubriel&locale=pt-br&mode=daily&theme=gotham&hide_border=true&border_radius=0&order=3#gh-dark-mode-only" height="150" alt="streak graph"  />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gubriel&radius=16&theme=gotham&area=true&order=5&bg_color=00&color=0ccc15&hide_border=true&title_color=0ccc15&line=0ccc15&point=00&area_color=00&hide_title=true#gh-dark-mode-only" height="300" alt="activity-graph graph"  />
+  </a>
+    <a href="https://github.com/Gubriel#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gubriel&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=pt-br&hide_border=false#gh-light-mode-only" height="150" alt="stats graph" />
+    <img src="https://streak-stats.demolab.com?user=Gubriel&locale=pt-br&mode=daily&theme=vue&hide_border=false&border_radius=0&order=3#gh-light-mode-only" height="150" alt="streak graph"  />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gubriel&radius=16&theme=react&area=true&order=5&bg_color=00&color=0ccc15&hide_border=true&title_color=0ccc15&line=0ccc15&point=00&area_color=00&hide_title=true#gh-light-mode-only" height="300" alt="activity-graph graph"  />
+  </a>
 </div>
 <hr/>
 
@@ -35,10 +43,8 @@
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
 </div>
 
-
-
 <div>
-
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=true&animation=fadeIn%20Pinto&descSize=20&descAlign=0&descAlignY=75&textBg=false&color=gradient"  />
-
+  <a href="https://github.com/Gubriel#gh-dark-mode-only">
+    <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=true&animation=fadeIn%20Pinto&descSize=20&descAlign=0&descAlignY=75&textBg=false&color=gradient#gh-dark-mode-only"  />
+  <a/>
 </div>
