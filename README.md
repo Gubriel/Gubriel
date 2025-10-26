@@ -39,9 +39,9 @@
     <img width="65" />
     <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/n8n-color.png" height="40" alt="n8n logo"  />
     <img width="65" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-    <img width="65" />
     <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+    <img width="65" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <a/>
   <a href="https://github.com/Gubriel#gh-light-mode-only">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
@@ -53,6 +53,8 @@
     <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="flutter logo"  />
     <img width="65" />
     <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="dart logo"  />
+    <img width="65" />
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/n8n-color.png" height="40" alt="n8n logo"  />
     <img width="65" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
     <img width="65" />
