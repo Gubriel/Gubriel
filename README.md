@@ -2,14 +2,14 @@
   <a href="https://github.com/Gubriel#gh-dark-mode-only">
     <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&reversal=true&text=Sauda%C3%A7%C3%B5es!&fontSize=30&fontColor=FFFFFF&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&desc=Eu%20sou%20Gustavo%20C.%20Pinto&descSize=20&descAlign=0&descAlignY=75&textBg=false&color=gradient"  />
   <a/>
-  <a href="https://github.com/Gubriela#gh-light-mode-only">
+  <a href="https://github.com/Gubriel#gh-light-mode-only">
     <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&reversal=true&text=Sauda%C3%A7%C3%B5es!&fontSize=30&fontColor=68717B&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&desc=Eu%20sou%20Gustavo%20C.%20Pinto&descSize=20&descAlign=0&descAlignY=75&textBg=false&color=36F1CA"  />
   <a/>
 </div>
 <hr/>
 
 <div align="center">
-  <a href="https://github.com/Gubriela#gh-dark-mode-only">
+  <a href="https://github.com/Gubriel#gh-dark-mode-only">
     <img src="https://github-readme-stats.vercel.app/api?username=Gubriel&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=true" height="150" alt="stats graph" />
     <img src="https://streak-stats.demolab.com?user=Gubriel&locale=pt-br&mode=daily&theme=gotham&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph"  />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gubriel&radius=16&theme=gotham&area=true&order=5&bg_color=00&color=289B80&hide_border=true&title_color=0ccc15&line=36F1CA&point=00&area_color=289B80&hide_title=true" height="300" alt="activity-graph graph"  />
