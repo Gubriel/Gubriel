@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/Gubriel#gh-dark-mode-only">
     <img src="https://github-readme-stats.vercel.app/api?username=Gubriel&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=true" height="150" alt="stats graph" />
-    <img src="https://streak-stats.demolab.com?user=Gubriel&locale=pt-br&mode=daily&theme=gotham&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph"  />
+    <img src="https://streak-stats.demolab.com?user=Gubriel&locale=pt-br&mode=daily&theme=gotham&hide_border=true&border_radius=0" height="150" alt="streak graph"  />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gubriel&radius=16&theme=gotham&area=true&order=5&bg_color=00&color=289B80&hide_border=true&title_color=0ccc15&line=36F1CA&point=00&area_color=289B80&hide_title=true" height="300" alt="activity-graph graph"  />
   </a>
   <a href="https://github.com/Gubriel#gh-light-mode-only">
