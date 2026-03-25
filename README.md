@@ -22,7 +22,7 @@
 </div>
 <hr/>
 
-<h3>Aprendendo as Tecnologias:</h3>
+<h3>Tecnologias e ferramentas:</h3>
 <br/>
 
 <div align="center">
